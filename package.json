@@ -1,0 +1,22 @@
+{
+  "name": "tugaspekan3_js",
+  "version": "1.0.0",
+  "description": "Tugas pekan ke 3 Bootcamp Sanbercode QA Automation batch 39",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drajat2610/TugasPekan3_JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drajat2610/TugasPekan3_JS/issues"
+  },
+  "homepage": "https://github.com/drajat2610/TugasPekan3_JS#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
